@@ -15,8 +15,8 @@ Radegast EDR focuses on transparent, community-driven threat detection with end-
 ## Published repositories
 
 ### Management Console & Backend
-- [radegast-console-web](https://github.com/radegast-edr/radegast-console-web) -- Browser-based web console frontend built with SvelteKit and Bootstrap for managing devices, inspecting alerts, and exploring endpoint telemetry.
 - [radegast-console-backend](https://github.com/radegast-edr/radegast-console-backend) -- Backend API and service layer powering the Radegast Console, handling authentication, data flows, and console operations with end-to-end encryption.
+- [radegast-console-web](https://github.com/radegast-edr/radegast-console-web) -- Browser-based web console frontend built with SvelteKit and Bootstrap for managing devices, inspecting alerts, and exploring endpoint telemetry.
 
 ### Endpoint & Detection Engine
 - [rustinel](https://github.com/radegast-edr/rustinel) -- Fork of [Karib0u/rustinel](https://github.com/Karib0u/rustinel); open-source cross-platform endpoint detection engine for Windows, macOS, and Linux.
