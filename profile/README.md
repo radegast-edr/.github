@@ -60,3 +60,7 @@ If you want to contribute, open issues or pull requests in the repository most r
 ## License
 
 Repositories in this organization are primarily licensed under Apache 2.0. Please refer to each repository's `LICENSE` file for details.
+
+## AI Usage Disclosure
+
+The code in this org was heavily assisted by using GenAI tools. However, all commits in our core repos are 100 % human made and reviewed. We know that this is a repository for security tool and for that reason we take the code security very seriously, including following all security best-practices during local development.
